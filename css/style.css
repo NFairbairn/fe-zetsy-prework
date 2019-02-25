@@ -61,3 +61,7 @@ a img {
 a img:hover {
 	border: 5px rgb(112, 127, 122) solid;
 }
+
+#press {
+	margin-bottom: 20px;
+}
