@@ -49,3 +49,7 @@ h2 {
 a img {
 	border: 5px rgb(204, 204, 204) solid;
 }
+
+a img:hover {
+	border: 5px rgb(112, 127, 122) solid;
+}
