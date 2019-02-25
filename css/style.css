@@ -47,6 +47,5 @@ h2 {
 }
 
 a img {
-	border: 5px;
-	border-color: rbg(204, 204, 204);
+	border: 5px rgb(152,173,166) solid;
 }
