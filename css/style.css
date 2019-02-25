@@ -45,3 +45,8 @@ h2 {
 	margin: 0 0 20px 0;
 	font-family: 'Times New Roman', serif;
 }
+
+a:-webkit-any-link {
+    color: -webkit-link;
+    cursor: pointer;
+    text-decoration: underline;
