@@ -46,8 +46,7 @@ h2 {
 	font-family: 'Times New Roman', serif;
 }
 
-a:-webkit-any-link {
-    color: -webkit-link;
-    cursor: pointer;
-    text-decoration: underline;
-	}
+a {
+	border: 5px;
+	border-color: rbg(204, 204, 204)
+}
